@@ -13,4 +13,5 @@
 	git branch//查看所有分支  
 	git merge _name//将_name分支与当前分支合并  
 ## push & pull  
-	
+	git push origin master//将本地master分支push到远程origin仓库
+	git pull origin master//将远程origin仓库同步到本地master分支
