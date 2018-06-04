@@ -19,16 +19,16 @@
 
 常用的一些Git命令  
 
-显示command的helpgit help <command>  
-将工作文件修改提交到本地暂存区git add <file>  
-提交修改内容git commit "message"  
-将本地主分支推到远程git push -u <remoteName> <localBrachName>  
-克隆远程仓库git clone <url>  
-初始化仓库git init  
-创建仓库git remote add <remoteName> <url>  
-删除远程仓库git remote rm <name>  
-修改远程主机名git remote rename <remoteName> <newRemoteName>  
-拉取远程仓库git pull <remoteName> <localBrachName>  
-修改远程仓库git remote set-url --push <remoteName> <newUrl>  
-获取远程仓库的更新git fetch <remoteName>  
-获取远程仓库特定分支的更新git fetch <remoteName> <brachName>  
+显示command的	> helpgit help <command>  
+将工作文件修改提交到本地暂存区	> git add <file>  
+提交修改内容	> git commit "message"  
+将本地主分支推到远程	> git push -u <remoteName> <localBrachName>  
+克隆远程仓库	> git clone <url>  
+初始化仓库	> git init  
+创建仓库	> git remote add <remoteName> <url>  
+删除远程仓库	> git remote rm <name>  
+修改远程主机名	> git remote rename <remoteName> <newRemoteName>  
+拉取远程仓库	> git pull <remoteName> <localBrachName>  
+修改远程仓库	> git remote set-url --push <remoteName> <newUrl>  
+获取远程仓库的更新	> git fetch <remoteName>  
+获取远程仓库特定分支的更新	> git fetch <remoteName> <brachName>  
